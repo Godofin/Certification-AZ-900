@@ -24,8 +24,15 @@
 - _Gratuitos por 12 meses_ vs _Sempre gratuitos_
 
 ## Cloud Computing Advantages (Vantagens da nuvem)
-- High Avaibility (Alta disponibilidade)
+- High Avaibility (Alta disponibilidade - Garantir que o produto esteja sempre disponível)
 - Scalability (Escalabilidade)
 - Agility (Agilidade)
 - Geo-Distribuição (Servidor em qualquer lugar do mundo)
-- Disaster Recovery ()
+- Disaster Recovery (Recuperar dados, segurança)
+
+## Why is cloud computing typically cheaper to use?
+Cloud computing is the delivery of computing services over the internet by using a _pay-as-yo-go_ pricng model. You typically pay only for the cloud services you use, wich helps you:
+
+- Lower your operating costs.
+- Run your infrastructure more efficiently.
+- Scale as your business needs change.
