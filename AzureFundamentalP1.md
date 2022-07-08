@@ -36,3 +36,25 @@ Cloud computing is the delivery of computing services over the internet by using
 - Lower your operating costs.
 - Run your infrastructure more efficiently.
 - Scale as your business needs change.
+
+## Cloud Service Models
+
+### SasS (Service as a Service)
+
+- Não cuidar de nada, tudo por conta do provedor;
+- Cliente apenas adcionar os dados e o servidor tem a função de cuidar de tudo;
+
+### PaaS (Plataform as a Service)
+
+- Não preciso tomar conta do sistema operacional;
+- Servidor tem a resposabilidade de cuidar do sistema operaciona
+
+### IaaS (Infrastructure as a Service)
+
+- Não se preuccupar com hardware;
+- Serves and Storages
+- Responsabilidade do cliente
+- Servidor tem a responsabilidade de cuidar do hardware;
+
+## What a serveless computing?
+Overlaping with PaaS, serveless computing enables developers to build applications faster by eliminating the need for them to manage infrastrucutre. With serveless applications, the cloud service provider automatically provisions, scales, and manages the infrastructure required to run the code. Serveless architectures are highly scalable and event-driven. They use resources only when a specific funcion or trigger occurs.
